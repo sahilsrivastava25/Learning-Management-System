@@ -30,7 +30,7 @@ const Navbar = () => {
           <div className="info">
             <div className="contact">
               {/* <FaPhone />  */}
-              Contact Us: +919105455891
+              Contact Us: +913105455891
             </div>
             <div className="clock">
               {/* <FaClock />  */}
